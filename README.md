@@ -1,19 +1,58 @@
-- # 👋 Hi, I’m @Rushikesh_Lagad
+# 👨‍🔬 Rushikesh Rajaram Lagad
 
-👀 I’m interested in bioinformatics, computational biology, and the integration of multi-omics data to enhance our understanding of complex diseases like cancer.
+**PhD Student | Genomics & Bioinformatics**  
+University of Arkansas | Formerly at Moffitt Cancer Center  
+Hybrid Dry Lab: Spatial Omics • Microbiome • HPC • AI in Biology
 
-🌱 I’m currently learning advanced techniques in spatial transcriptomics, focusing on its application in cancer research to map tumor microenvironments and understand cellular interactions.
+---
 
-💞️ I’m looking to collaborate on projects that involve single-cell sequencing, spatial transcriptomics, or any innovative bioinformatics approaches that can lead to novel therapeutic insights.
+## 🔬 About Me
 
-📫 How to reach me: You can reach me via email at [rushikesh.lagad@moffitt.org](mailto:Rushikesh.Lagad@moffitt.org) or [rlagad@usf.edu](mailto:rlagad@usf.edu), .
+I am a PhD student specializing in **Genomics & Bioinformatics**, with prior research experience at **Moffitt Cancer Center**, where I worked on **spatial transcriptomics** (10x Visium, MERFISH), cancer immunology, and dry-lab pipelines. My current research focuses on:
 
-😄 Pronouns: He/Him
+- **Host–microbiome interactions**
+- **Genome annotation & microbial comparative genomics**
+- **Functional prediction of pathogenicity islands**
+- **High-performance and GPU computing for omics**
+- **Application of AI/ML to biological signals**
 
-⚡ Fun fact: Besides my passion for bioinformatics, I enjoy hiking and photography, Canoeing often exploring ways to capture the beauty of nature through the lens of science.
+I use a hybrid computational environment — combining a powerful **Dell Precision workstation** and the **Pinnacle HPC cluster** — to run scalable pipelines and reproducible analyses.
 
+---
 
-<!---
-RishiLagad/RishiLagad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚙️ Tools & Technologies
+
+- **Languages & Scripting**: Python • R • Bash • SLURM
+- **Bioinformatics Tools**: Seurat • QIIME2 • Kraken2 • Prokka • Bakta • eggNOG • AlienHunter
+- **Frameworks & Systems**: GitHub • WSL2 • Conda • HPC (SLURM) • Shell automation
+- **Domains**: Spatial transcriptomics • Microbiome • Comparative genomics • AI/ML in biology
+
+---
+
+## 🧪 Current Projects
+
+- Building pipelines for microbial genome annotation and GI detection  
+- Exploring host-microbiome signatures in metagenomic datasets  
+- Running reproducible spatial omics workflows across HPC and local setups  
+- Prototyping machine learning models for pathogenicity classification  
+
+---
+
+## 📁 Featured Repositories
+
+- [`PhD-DryLab-Genomics`](https://github.com/RushiLagad/PhD-DryLab-Genomics): Modular, reproducible pipelines for genomics/microbiome research  
+- [`Spatial-Transcriptomics-Seurat`](https://github.com/RushiLagad/Spatial-Transcriptomics-Seurat): Seurat-based spatial data analysis  
+- [`gptcelltype`](https://github.com/RushiLagad/gptcelltype): Cell type annotation using GPT models  
+
+---
+
+## 📫 Contact
+
+📧 Email: rlagad@uada.edu  
+🔗 LinkedIn: [linkedin.com/in/rushikesh-lagad-535371227](https://www.linkedin.com/in/rushikesh-lagad-535371227)  
+📍 Location: Fayetteville, Arkansas  
+😄 Pronouns: He/Him  
+
+---
+
+> *Data-aware. Biology-aligned. HPC-optimized. Curious by design.*
