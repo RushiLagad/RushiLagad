@@ -1,58 +1,15 @@
-# 👨‍🔬 Rushikesh Rajaram Lagad
+### Hi, I'm Rushi
 
-**PhD Student | Genomics & Bioinformatics**  
-University of Arkansas | Formerly at Moffitt Cancer Center  
-Hybrid Dry Lab: Spatial Omics • Microbiome • HPC • AI in Biology
+PhD student in Genomics and Bioinformatics at the University of Arkansas, in Dr. Aranyak Goswami's lab in the Department of Animal Science.
 
----
+My work asks which signals in microbial and microbiome data still hold up after careful testing, and which only appear to. Most of it is microbial comparative genomics, interpretable machine learning and causal inference, applied to livestock and human health. Before Arkansas I worked in cancer bioinformatics at Moffitt Cancer Center, and before that I trained as a pharmacist.
 
-## 🔬 About Me
+**Start here**
 
-I am a PhD student specializing in **Genomics & Bioinformatics**, with prior research experience at **Moffitt Cancer Center**, where I worked on **spatial transcriptomics** (10x Visium, MERFISH), cancer immunology, and dry-lab pipelines. My current research focuses on:
+- [Cassette2Vec](https://github.com/RushiLagad/Cassette2Vec): gene neighborhoods inside genomic islands as a signal for pathogenic *Enterococcus cecorum*. Published in [Frontiers in Microbiology](https://doi.org/10.3389/fmicb.2026.1882753) (2026).
+- [breedforward-ai-ag-2026](https://github.com/RushiLagad/breedforward-ai-ag-2026): which maize lines to advance when plots run short. AI in Ag Hackathon with Bayer, 2026.
+- [h2o-evidence-rules](https://github.com/RushiLagad/h2o-evidence-rules): small checks that keep a multi-dataset evidence table honest. NIAID-BRC AI Codeathon 2.0.
 
-- **Host–microbiome interactions**
-- **Genome annotation & microbial comparative genomics**
-- **Functional prediction of pathogenicity islands**
-- **High-performance and GPU computing for omics**
-- **Application of AI/ML to biological signals**
+**Day to day:** Python, R, Bash, Slurm, Nextflow, Snakemake, QIIME 2, Prokka, PIRATE, XGBoost, SHAP, Mendelian randomization.
 
-I use a hybrid computational environment — combining a powerful **Dell Precision workstation** and the **Pinnacle HPC cluster** — to run scalable pipelines and reproducible analyses.
-
----
-
-## ⚙️ Tools & Technologies
-
-- **Languages & Scripting**: Python • R • Bash • SLURM
-- **Bioinformatics Tools**: Seurat • QIIME2 • Kraken2 • Prokka • Bakta • eggNOG • AlienHunter
-- **Frameworks & Systems**: GitHub • WSL2 • Conda • HPC (SLURM) • Shell automation
-- **Domains**: Spatial transcriptomics • Microbiome • Comparative genomics • AI/ML in biology
-
----
-
-## 🧪 Current Projects
-
-- Building pipelines for microbial genome annotation and GI detection  
-- Exploring host-microbiome signatures in metagenomic datasets  
-- Running reproducible spatial omics workflows across HPC and local setups  
-- Prototyping machine learning models for pathogenicity classification  
-
----
-
-## 📁 Featured Repositories
-
-- [`PhD-DryLab-Genomics`](https://github.com/RushiLagad/PhD-DryLab-Genomics): Modular, reproducible pipelines for genomics/microbiome research  
-- [`Spatial-Transcriptomics-Seurat`](https://github.com/RushiLagad/Spatial-Transcriptomics-Seurat): Seurat-based spatial data analysis  
-- [`gptcelltype`](https://github.com/RushiLagad/gptcelltype): Cell type annotation using GPT models  
-
----
-
-## 📫 Contact
-
-📧 Email: rlagad@uada.edu  
-🔗 LinkedIn: [linkedin.com/in/rushikesh-lagad-535371227](https://www.linkedin.com/in/rushikesh-lagad-535371227)  
-📍 Location: Fayetteville, Arkansas  
-😄 Pronouns: He/Him  
-
----
-
-> *Data-aware. Biology-aligned. HPC-optimized. Curious by design.*
+**Elsewhere:** [rushilagad.github.io](https://rushilagad.github.io) · [LinkedIn](https://www.linkedin.com/in/rushikesh-lagad-535371227/) · [ResearchGate](https://www.researchgate.net/profile/Rushikesh-Lagad-3) · rlagad@uark.edu
