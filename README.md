@@ -1,6 +1,6 @@
 ### Hi, I'm Rushikesh
 
-PhD student in Genomics and Bioinformatics at the University of Arkansas, in Dr. Aranyak Goswami's lab in the Department of Animal Science.
+PhD student in Animal Science, majoring in Bioinformatics and Genomics, at the University of Arkansas. I work in Dr. Aranyak Goswami's lab in the Department of Animal Science.
 
 My work asks which signals in microbial and microbiome data still hold up after careful testing, and which only appear to. Most of it is microbial comparative genomics, interpretable machine learning and causal inference, applied to livestock and human health. Before Arkansas I worked in cancer bioinformatics at Moffitt Cancer Center, and before that I trained as a pharmacist.
 
@@ -12,4 +12,4 @@ My work asks which signals in microbial and microbiome data still hold up after 
 
 **Day to day:** Python, R, Bash, Slurm, Nextflow, Snakemake, QIIME 2, Prokka, PIRATE, XGBoost, SHAP, Mendelian randomization.
 
-**Elsewhere:** [rushilagad.github.io](https://rushilagad.github.io) · [LinkedIn](https://www.linkedin.com/in/rushikesh-lagad-535371227/) · [ResearchGate](https://www.researchgate.net/profile/Rushikesh-Lagad-3) · rlagad@uark.edu
+**Elsewhere:** [rushilagad.github.io](https://rushilagad.github.io) · [LinkedIn](https://www.linkedin.com/in/rushikesh-lagad-535371227/) · [ResearchGate](https://www.researchgate.net/profile/Rushikesh-Lagad-3) · [ORCID](https://orcid.org/0009-0006-6613-4214) · rlagad@uark.edu
