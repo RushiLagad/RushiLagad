@@ -1,4 +1,4 @@
-### Hi, I'm Rushi
+### Hi, I'm Rushikesh
 
 PhD student in Genomics and Bioinformatics at the University of Arkansas, in Dr. Aranyak Goswami's lab in the Department of Animal Science.
 
